@@ -26,6 +26,7 @@ policy informatics, public policy, open governance, beliefs, processes
 ___
 ## Introduction
 - what is the ideal of public deliberation in open governance?
+- A public deliberation should involve a diverse of participants who come from different social, ecnomic, and cultural backgrounds. Moreover, during the deliberation, well-prepared information regarding the issue should present to all the participants, who are expected to read, watch, and understand this information in order to come up with good individual opinions so that a rational and well-reasoned discussion, deliberation, and conversation can occur among participants.
 - what is the reality of how evidence is used in goverance discussions, especially online?
 - is there a fundamental disconnect between this ideal and the current reality?
 
